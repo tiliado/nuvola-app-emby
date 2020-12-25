@@ -1,0 +1,13 @@
+Makefile
+metadata.json
+icons
+/screenshots/
+nuvola-app-emby
+eu.tiliado.NuvolaAppEmby.desktop
+eu.tiliado.NuvolaAppEmby.service
+eu.tiliado.NuvolaAppEmby.appdata.xml
+nuvola-app-emby.metainfo.xml
+eu.tiliado.WebRuntimeAppEmby.desktop
+eu.tiliado.WebRuntimeAppEmby.service
+eu.tiliado.WebRuntimeAppEmby.appdata.xml
+nuvola-app-emby.metainfo.xml
